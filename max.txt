@@ -1,0 +1,9 @@
+{
+  "url":"https://aplikasimaxtube.weebly.com/uploads/1/2/7/0/127018082/caberawit_terbaru_tanpa_iklan.apk",
+  "versionCode":4 ,
+  "updateMessage":"MaxTube 7.6 Tanpa Iklan\n\n Iklan dihilangkan \n Lebih ringan digunakan \n Jalan Tanpa VPN" , 
+  "sappid":"" ,
+  "appid":"" ,
+  "banner":"" ,
+  "inter":""
+}
