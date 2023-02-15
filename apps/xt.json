@@ -1,0 +1,760 @@
+{
+  "web_ssl_finished": true,
+  "a_records_reverse": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "mx_vulnerabilities": {
+    "sweet32": {
+      "severity": "LOW",
+      "cve": "CVE-2016-2183, CVE-2016-6329",
+      "finding": "SWEET32, uses 64 bit block ciphers"
+    },
+    "cbc_tls1": {
+      "severity": "MEDIUM",
+      "cve": "CVE-2011-3389",
+      "finding": "BEAST: CBC ciphers for TLS1: ECDHE-RSA-AES128-SHA ECDHE-RSA-AES256-SHA AES128-SHA AES256-SHA DES-CBC3-SHA"
+    },
+    "lucky13": {
+      "severity": "LOW",
+      "cve": "CVE-2013-0169",
+      "finding": "potentially vulnerable to LUCKY13, uses cipher block chaining (CBC) ciphers with TLS. Check patches"
+    },
+    "beast": {
+      "severity": "LOW",
+      "cve": "CVE-2011-3389",
+      "finding": "BEAST: VULNERABLE -- but also supports higher protocols (possible mitigation): TLSv1.1 TLSv1.2"
+    }
+  },
+  "cookies_count": 2,
+  "tracker_requests": [
+    "cdnegc.trafficfactory.biz",
+    "rpc-php.trafficfactory.biz"
+  ],
+  "a_records": [
+    "185.88.181.10",
+    "185.88.181.11",
+    "185.88.181.2",
+    "185.88.181.3",
+    "185.88.181.4",
+    "185.88.181.5",
+    "185.88.181.6",
+    "185.88.181.7",
+    "185.88.181.8",
+    "185.88.181.9"
+  ],
+  "web_has_hpkp_header": false,
+  "requests": [
+    {
+      "url": "http://xvideos.com/",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://www.xvideos.com/",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v-19d404113dc/v3/css/default/main.css",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v-17a777c305c/v3/js/skins/min/default.header.static.js",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v3/img/skins/default/favicon.png",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/img/lightbox/lightbox-blank.gif",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v-37e5488b324/v3/js/skins/min/default.footer.static.js",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v3/js/libs/jquery.min.js",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v3/js/skins/min/require.static.js",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v-840b7dcae1b/v3/js/i18n/front/english.json",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://rpc-php.trafficfactory.biz/json/tower-1xfooter-1///xvideos////content.json?v=0.3722155385490078",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v3/img/skins/default/xvideos.com.svg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v-00000000019/v3/img/skins/default/xv-icons-sprite.svg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v-19d404113dc/v3/img/flags/flat/flags-32.png",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v-00000000042/v3/fonts/skins/common/iconfont/iconfont.woff2?3d23ou",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/f6/9b/3f/f69b3f94f1ed1220bf076709b9210d95/f69b3f94f1ed1220bf076709b9210d95.7.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/f7/49/ba/f749ba5baad708385fcf23932a9c04f0/f749ba5baad708385fcf23932a9c04f0.19.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v-19d404113dc/v3/img/flags/flat/flags-16.png",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/09/dd/ea/09ddead2a4276b11b8314ea9c6dfdce4/09ddead2a4276b11b8314ea9c6dfdce4.22.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/38/29/1d/38291db2fd50c2ed59e8191c817c9a7a/38291db2fd50c2ed59e8191c817c9a7a.30.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/e4/97/42/e497425b9451239c1f87e48da8a73c4b/e497425b9451239c1f87e48da8a73c4b.28.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/1f/d4/50/1fd4503d270ccb8a2bd9399b1a54654b/1fd4503d270ccb8a2bd9399b1a54654b.21.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/40/3d/37/403d37f1116dbd13b49ea53f40ef192b/403d37f1116dbd13b49ea53f40ef192b.23.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/28/b8/50/28b850f794cdae332e05d39d66e9688a/28b850f794cdae332e05d39d66e9688a.13.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/20/b2/23/20b2233fc227bb73bf0c6aead45a3151/20b2233fc227bb73bf0c6aead45a3151.27.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/c6/0d/ad/c60dad218147b0078c1b3f17a6728ea0/c60dad218147b0078c1b3f17a6728ea0.29.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/50/f6/4c/50f64c60511f6f4f3ff086730d432302/50f64c60511f6f4f3ff086730d432302.3.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/94/90/6c/94906cc2052ff697fbb3b0004ba8a656/94906cc2052ff697fbb3b0004ba8a656.22.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/f4/82/2f/f4822f86bc4f27c1de7d3fb85ded733e/f4822f86bc4f27c1de7d3fb85ded733e.3.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/4e/18/19/4e1819fd9b4050a7db87b386701ab73d/4e1819fd9b4050a7db87b386701ab73d.30.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/8f/54/dc/8f54dcaad293ed8f1e21239d583495ac/8f54dcaad293ed8f1e21239d583495ac.11.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/6e/e7/d5/6ee7d5133233d42c83d48d6f260b73b5/6ee7d5133233d42c83d48d6f260b73b5.29.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/14/cb/53/14cb53138676abbec143bba0de244b50/14cb53138676abbec143bba0de244b50.9.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/42/9e/9b/429e9b5e24e26dcbb813ce6f9c6e640a/429e9b5e24e26dcbb813ce6f9c6e640a.12.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/24/f4/51/24f4512f45d0cf05aefd2c1ca0b63b47/24f4512f45d0cf05aefd2c1ca0b63b47.11.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/f2/e4/f8/f2e4f8c55efd62a6f4798060833d2813/f2e4f8c55efd62a6f4798060833d2813.19.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/ee/2f/bb/ee2fbbf26682453c6770c3a11038e887/ee2fbbf26682453c6770c3a11038e887.23.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/76/01/7c/76017cc3d136fca377973e692de8b485/76017cc3d136fca377973e692de8b485.26.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/7c/75/2d/7c752d26dc7a4853de962d2b45afa44b/7c752d26dc7a4853de962d2b45afa44b.9.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/67/17/38/671738d36ca865fc6845766edef10b88/671738d36ca865fc6845766edef10b88.1.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/bd/93/f4/bd93f4ffafd47917cda50c2d6572c6fc/bd93f4ffafd47917cda50c2d6572c6fc.27.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/92/0b/78/920b78efbded9b764fda2eada6afc88b/920b78efbded9b764fda2eada6afc88b.10.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/38/1b/c8/381bc8ecd11424e563ee177ef9cdcc8d/381bc8ecd11424e563ee177ef9cdcc8d.16.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/65/56/9f/65569f97e11c81c77019135fa46d0b01/65569f97e11c81c77019135fa46d0b01.4.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/a6/61/24/a66124524792ff5b32d7da26c060130d/a66124524792ff5b32d7da26c060130d.16.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/96/28/98/962898536633ad70c421ecc7d6a1f991/962898536633ad70c421ecc7d6a1f991.6.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/bc/0e/69/bc0e6956546dacb36c9796231254e1cb/bc0e6956546dacb36c9796231254e1cb.27.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/c5/86/d7/c586d76ca8cb6b9d4d5af6706335def5/c586d76ca8cb6b9d4d5af6706335def5.18.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/0c/d6/ed/0cd6edcc5fbab43a45432f7cf1eb0a1d/0cd6edcc5fbab43a45432f7cf1eb0a1d.19.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/ed/22/4e/ed224ebd9a72d8e175ac4282b00ec40a/ed224ebd9a72d8e175ac4282b00ec40a.9.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/8c/e4/19/8ce4197a9332c88911c809cae7378bd3/8ce4197a9332c88911c809cae7378bd3.26.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://cdn77-pic.xvideos-cdn.com/videos/thumbs169l/3f/6d/5e/3f6d5e5a395e4e2279fb1d2c3a841810/3f6d5e5a395e4e2279fb1d2c3a841810.30.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/4a/1f/1c/4a1f1cdecb0a1c0cccaec723c59c0abd/4a1f1cdecb0a1c0cccaec723c59c0abd.23.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/38/02/02/380202f85696a86b90a9b7810a74b828/380202f85696a86b90a9b7810a74b828.5.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/02/de/9b/02de9bd95c772f4edf82b1c8e6cd130b/02de9bd95c772f4edf82b1c8e6cd130b.26.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/99/02/28/9902289e18a56301b9d27712c85755db/9902289e18a56301b9d27712c85755db.10.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/36/fa/e7/36fae7048a4b2cb6981ffee58e3fb7d1/36fae7048a4b2cb6981ffee58e3fb7d1.28.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/26/e2/72/26e272211350cf75076b6bb8af1ba08c/26e272211350cf75076b6bb8af1ba08c.20.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/b5/41/86/b541861fc5b93befaac761a4fe0c09fb/b541861fc5b93befaac761a4fe0c09fb.13.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/af/a2/89/afa28924cc33a6d36397c391efd59a48/afa28924cc33a6d36397c391efd59a48.4.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-egc.xvideos-cdn.com/videos/thumbs169l/e5/ed/d4/e5edd478cbf0cb8b8be6c71e29a05a5d/e5edd478cbf0cb8b8be6c71e29a05a5d.26.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-l3.xvideos-cdn.com/videos/thumbs169l/ae/e2/1b/aee21b6e9918e7d2b3b81eae7eefecd0/aee21b6e9918e7d2b3b81eae7eefecd0.23.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://img-hw.xvideos-cdn.com/videos/thumbs169l/6e/11/b2/6e11b23d8d2fa6e45887ed1699b496b4/6e11b23d8d2fa6e45887ed1699b496b4.28.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://cdn77-pic.xvideos-cdn.com/videos/thumbs169l/80/ad/0b/80ad0b72e3f398a1d5b8c50cb92de109/80ad0b72e3f398a1d5b8c50cb92de109.17.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://cdnegc.trafficfactory.biz/banners/a5/40/6a/8ffff8400d40809fd245499545890a52.jpg",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v-879406e04bb/v3/js/skins/min/default.js",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://cdnegc.trafficfactory.biz/banners/bb/58/f3/013d9d659b92ba7cd7a693abe8ca9b09.mp4",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v3/img/skins/default/xv-inline-loader.gif",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    },
+    {
+      "url": "https://static-egc.xvideos-cdn.com/v-879406e04bb/v3/js/jquery.js",
+      "method": null,
+      "headers": null,
+      "referrer": null
+    }
+  ],
+  "success": true,
+  "web_has_protocol_tls1_1": true,
+  "profilecookies": [
+    {
+      "name": "wpn_ad_cookie",
+      "lifetime": 604801,
+      "path": "/",
+      "value": "f2df448856dbd9d4f900a9e8071adc0d",
+      "expiry": 1552498160,
+      "isSecure": false,
+      "host": ".xvideos.com",
+      "isHttpOnly": false,
+      "baseDomain": "xvideos.com"
+    },
+    {
+      "name": "HEXAVID_LOGIN",
+      "lifetime": 2592001.0804018974,
+      "path": "/",
+      "value": "e2b7e4a0f4cadb8atQL0GBx4XREZBYZyxdC4UW_I8Gyzo7bzMtsKh4faFZ0FR0z30I6EHcDpYwZ4sKUMVrtbSLojYHGROWbh0cg65YgSJ7-tfsBISqF4UyFxigYiE3O0fED4k-dAB8vz23lP2F6MkIPZlRihHIeyVCpfSLQ2Mqik3Y3czTtnkeaw0yGB5SzEfRidDgLIbLqAUcKt",
+      "expiry": 1554485360.080402,
+      "isSecure": false,
+      "host": ".xvideos.com",
+      "isHttpOnly": false,
+      "baseDomain": "xvideos.com"
+    }
+  ],
+  "responses": null,
+  "mx_has_protocol_tls1_1": true,
+  "flashcookies": [],
+  "web_has_hsts_header": false,
+  "mixed_content": false,
+  "https": true,
+  "mx_locations": [
+    "United States"
+  ],
+  "cookie_stats": {
+    "first_party_short": 0,
+    "first_party_long": 2,
+    "third_party_short": 0,
+    "first_party_flash": 0,
+    "third_party_track_domains": [],
+    "third_party_flash": 0,
+    "third_party_long": 0,
+    "third_party_track_uniq": 0,
+    "third_party_track": 0
+  },
+  "web_ciphers": {
+    "std_128Bit": {
+      "finding": "Weak 128 Bit ciphers (SEED, IDEA, RC[2,4]) offered - bad",
+      "severity": "HIGH"
+    },
+    "std_3DES": {
+      "finding": "Triple DES Ciphers (Medium)                offered - not too bad",
+      "severity": "MEDIUM"
+    }
+  },
+  "mx_a_records_reverse": [
+    [
+      1,
+      [
+        [
+          "wm-in-f27.1e100.net"
+        ]
+      ]
+    ],
+    [
+      5,
+      [
+        [
+          "lu-in-f27.1e100.net"
+        ]
+      ]
+    ],
+    [
+      5,
+      [
+        [
+          "sc-in-f27.1e100.net"
+        ]
+      ]
+    ],
+    [
+      10,
+      [
+        [
+          "lu-in-f27.1e100.net"
+        ]
+      ]
+    ],
+    [
+      10,
+      [
+        [
+          "sc-in-f27.1e100.net"
+        ]
+      ]
+    ],
+    [
+      10,
+      [
+        [
+          "tk-in-f27.1e100.net"
+        ]
+      ]
+    ],
+    [
+      10,
+      [
+        [
+          "wj-in-f27.1e100.net"
+        ]
+      ]
+    ]
+  ],
+  "web_has_protocol_sslv3": false,
+  "a_locations": [
+    "Netherlands"
+  ],
+  "third_parties_count": 7,
+  "web_has_protocol_tls1_2": true,
+  "headerchecks": {
+    "x-xss-protection": {
+      "value": "",
+      "status": "MISSING"
+    },
+    "x-frame-options": {
+      "value": "",
+      "status": "MISSING"
+    },
+    "referrer-policy": {
+      "value": "",
+      "status": "MISSING"
+    },
+    "x-content-type-options": {
+      "value": "",
+      "status": "MISSING"
+    },
+    "content-security-policy": {
+      "value": "default-src 'self' data: 'unsafe-inline' 'unsafe-eval' blob: *.xvideos.com *.xnxx.com *.xvideos-cdn.com *.xnxx-cdn.com *.others-cdn.com z8y8f3q6.ssl.hwcdn.net https://www.xvideos.com https://wg-xvdev.xvideos.com *.trafficfactory.biz fonts.googleapis.com fonts.gstatic.com ajax.googleapis.com www.google-analytics.com *.addthis.com *.addthisedge.com www.iwanttodeliver.com apis.google.com www.google.com www.gstatic.com accounts.google.com https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ www.sex.com *.lswcdn.net *.llnwd.net *.hwcdn.net fcm.googleapis.com *.nk-img.com *.camster.com wss://*.camster.com:8443 *.naked.com https://static-dev-xvlive.xvideos.com https://dev-api.naked.com http://dev-api.naked.com wss://dev-chatserver.camster.com wss://staging-chatserver.camster.com wss://m.1ka.com wss://c1.1ka.com wss://c11.1ka.com wss://c12.1ka.com wss://c13.1ka.com wss://c14.1ka.com wss://c15.1ka.com wss://c16.1ka.com wss://c17.1ka.com wss://c18.1ka.com wss://c19.1ka.com wss://c110.1ka.com wss://c111.1ka.com wss://c112.1ka.com wss://c113.1ka.com wss://c114.1ka.com wss://c115.1ka.com wss://c2.1ka.com wss://c21.1ka.com wss://c22.1ka.com wss://c23.1ka.com wss://c24.1ka.com wss://c25.1ka.com wss://c26.1ka.com wss://c27.1ka.com wss://c28.1ka.com wss://c29.1ka.com wss://c210.1ka.com wss://c211.1ka.com wss://c212.1ka.com wss://c213.1ka.com wss://c214.1ka.com wss://c215.1ka.com wss://c3.1ka.com wss://c31.1ka.com wss://c32.1ka.com wss://c33.1ka.com wss://c34.1ka.com wss://c35.1ka.com wss://c36.1ka.com wss://c37.1ka.com wss://c38.1ka.com wss://c39.1ka.com wss://c4.1ka.com wss://c41.1ka.com wss://c42.1ka.com wss://c43.1ka.com wss://c44.1ka.com wss://c45.1ka.com wss://c46.1ka.com wss://c47.1ka.com wss://c48.1ka.com wss://c49.1ka.com wss://c410.1ka.com wss://c411.1ka.com wss://c412.1ka.com wss://c413.1ka.com wss://c414.1ka.com wss://c415.1ka.com wss://c5.1ka.com wss://c51.1ka.com wss://c52.1ka.com wss://c53.1ka.com wss://c54.1ka.com wss://c55.1ka.com wss://c56.1ka.com wss://c57.1ka.com wss://c58.1ka.com wss://c59.1ka.com wss://c510.1ka.com wss://c511.1ka.com wss://c512.1ka.com wss://c513.1ka.com wss://c514.1ka.com wss://c515.1ka.com https://dev-chatserver.camster.com https://staging-chatserver.camster.com https://m.1ka.com https://c1.1ka.com https://c11.1ka.com https://c12.1ka.com https://c13.1ka.com https://c14.1ka.com https://c15.1ka.com https://c16.1ka.com https://c17.1ka.com https://c18.1ka.com https://c19.1ka.com https://c110.1ka.com https://c111.1ka.com https://c112.1ka.com https://c113.1ka.com https://c114.1ka.com https://c115.1ka.com https://c2.1ka.com https://c21.1ka.com https://c22.1ka.com https://c23.1ka.com https://c24.1ka.com https://c25.1ka.com https://c26.1ka.com https://c27.1ka.com https://c28.1ka.com https://c29.1ka.com https://c210.1ka.com https://c211.1ka.com https://c212.1ka.com https://c213.1ka.com https://c214.1ka.com https://c215.1ka.com https://c3.1ka.com https://c31.1ka.com https://c32.1ka.com https://c33.1ka.com https://c34.1ka.com https://c35.1ka.com https://c36.1ka.com https://c37.1ka.com https://c38.1ka.com https://c39.1ka.com https://c4.1ka.com https://c41.1ka.com https://c42.1ka.com https://c43.1ka.com https://c44.1ka.com https://c45.1ka.com https://c46.1ka.com https://c47.1ka.com https://c48.1ka.com https://c49.1ka.com https://c410.1ka.com https://c411.1ka.com https://c412.1ka.com https://c413.1ka.com https://c414.1ka.com https://c415.1ka.com https://c5.1ka.com https://c51.1ka.com https://c52.1ka.com https://c53.1ka.com https://c54.1ka.com https://c55.1ka.com https://c56.1ka.com https://c57.1ka.com https://c58.1ka.com https://c59.1ka.com https://c510.1ka.com https://c511.1ka.com https://c512.1ka.com https://c513.1ka.com https://c514.1ka.com https://c515.1ka.com https://media.1ka.com https://u.1ka.com;img-src 'self' 'unsafe-inline' data: *.xvideos.com *.xnxx.com *.xvideos-cdn.com *.xnxx-cdn.com *.others-cdn.com *.hwcdn.net *.trafficfactory.biz www.google.com www.google-analytics.com ssl.gstatic.com *.nk-img.com *.camster.com;",
+      "status": "INFO"
+    }
+  },
+  "mx_ciphers": {
+    "std_3DES": {
+      "finding": "Triple DES Ciphers (Medium)                offered - not too bad",
+      "severity": "MEDIUM"
+    }
+  },
+  "web_has_ssl": true,
+  "leaks": [],
+  "web_has_protocol_tls1_3": false,
+  "flashcookies_count": null,
+  "mx_has_ssl": true,
+  "mx_pfs": true,
+  "web_pfs": true,
+  "openwpm_final_url": "https://www.xvideos.com/",
+  "final_url": "https://www.xvideos.com/",
+  "web_cert_trusted": true,
+  "reachable": true,
+  "requests_count": 69,
+  "google_analytics_present": false,
+  "third_party_requests_count": 67,
+  "third_parties": [
+    "cdn77-pic.xvideos-cdn.com",
+    "cdnegc.trafficfactory.biz",
+    "img-egc.xvideos-cdn.com",
+    "img-hw.xvideos-cdn.com",
+    "img-l3.xvideos-cdn.com",
+    "rpc-php.trafficfactory.biz",
+    "static-egc.xvideos-cdn.com"
+  ],
+  "mx_has_protocol_tls1": true,
+  "mx_has_protocol_sslv3": false,
+  "final_https_url": "https://www.xvideos.com/",
+  "mx_has_protocol_tls1_2": true,
+  "initial_url": "http://xvideos.com/",
+  "web_has_protocol_sslv2": false,
+  "web_has_protocol_tls1": true,
+  "web_has_hsts_preload": false,
+  "mx_cert_trusted": true,
+  "cname_records": [],
+  "mx_has_protocol_tls1_3": false,
+  "mx_a_records": [
+    [
+      1,
+      [
+        "64.233.166.27"
+      ]
+    ],
+    [
+      5,
+      [
+        "74.125.131.27"
+      ]
+    ],
+    [
+      5,
+      [
+        "74.125.68.27"
+      ]
+    ],
+    [
+      10,
+      [
+        "74.125.131.27"
+      ]
+    ],
+    [
+      10,
+      [
+        "74.125.68.27"
+      ]
+    ],
+    [
+      10,
+      [
+        "64.233.188.27"
+      ]
+    ],
+    [
+      10,
+      [
+        "74.125.195.27"
+      ]
+    ]
+  ],
+  "redirected_to_https": true,
+  "mx_ssl_finished": true,
+  "mx_cert_trusted_reason": "",
+  "web_vulnerabilities": {
+    "sweet32": {
+      "severity": "LOW",
+      "cve": "CVE-2016-2183, CVE-2016-6329",
+      "finding": "SWEET32, uses 64 bit block ciphers"
+    },
+    "cbc_tls1": {
+      "severity": "MEDIUM",
+      "cve": "CVE-2011-3389",
+      "finding": "BEAST: CBC ciphers for TLS1: ECDHE-RSA-AES128-SHA ECDHE-RSA-AES256-SHA DHE-RSA-AES128-SHA DHE-RSA-AES256-SHA ECDHE-RSA-DES-CBC3-SHA EDH-RSA-DES-CBC3-SHA AES128-SHA AES256-SHA DES-CBC3-SHA DHE-RSA-CAMELLIA256-SHA CAMELLIA256-SHA DHE-RSA-CAMELLIA128-SHA CAMELLIA128-SHA DHE-RSA-SEED-SHA SEED-SHA"
+    },
+    "lucky13": {
+      "severity": "LOW",
+      "cve": "CVE-2013-0169",
+      "finding": "potentially vulnerable to LUCKY13, uses cipher block chaining (CBC) ciphers with TLS. Check patches"
+    },
+    "beast": {
+      "severity": "LOW",
+      "cve": "CVE-2011-3389",
+      "finding": "BEAST: VULNERABLE -- but also supports higher protocols (possible mitigation): TLSv1.1 TLSv1.2"
+    },
+    "breach": {
+      "severity": "HIGH",
+      "cve": "CVE-2013-3587",
+      "finding": "BREACH: potentially VULNERABLE, uses gzip HTTP compression.  - only supplied '/' tested ( Can be ignored for static pages or if no secrets in the page)"
+    }
+  },
+  "final_url_is_https": true,
+  "mx_records": [
+    [
+      1,
+      "aspmx.l.google.com"
+    ],
+    [
+      5,
+      "alt1.aspmx.l.google.com"
+    ],
+    [
+      5,
+      "alt2.aspmx.l.google.com"
+    ],
+    [
+      10,
+      "aspmx2.googlemail.com"
+    ],
+    [
+      10,
+      "aspmx3.googlemail.com"
+    ],
+    [
+      10,
+      "aspmx4.googlemail.com"
+    ],
+    [
+      10,
+      "aspmx5.googlemail.com"
+    ]
+  ],
+  "web_has_hsts_preload_header": false,
+  "web_cert_trusted_reason": ""
+}
